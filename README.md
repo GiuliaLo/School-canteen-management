@@ -3,6 +3,7 @@ Project done for my software engineering class at Politecnico di Milano
 
 # DESCRIPTION
 IT
+
 Si progetti e si realizzi in java una mensa scolastica distribuita per gestire le informazioni relative ai pasti di studenti e docenti di una scuola. 
 Degli studenti si gestisce nome, cognome, numero telefonico di casa, numero di cellulare dei genitori, indirizzo (via, CAP, città) e un campo note. 
 Dei docenti si gestisce nome, cognome, numero di cellulare, indirizzo (via, CAP, città) e un campo note.
@@ -16,7 +17,9 @@ Si testino le classi del programma con opportuni test JUnit.
 Si realizzino inoltre i diagrammi UML per descrivere le classi dell’applicazione e il suo funzionamento (class diagram e sequence diagram).
 
 
+
 EN
+
 Design and implement a school canteen in Java to manage information about meals for students and teachers of a school.
 Record students' name, surname, home phone number, a parent's phone number, address (street, zip code, city) and a note field.
 For teachers the name, surname, phone number, address (street, zip code, city) and a note field.
