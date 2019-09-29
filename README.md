@@ -1,7 +1,7 @@
 # School-canteen-management
 Project done for my software engineering class at Politecnico di Milano
 
-This is the biggest software project I've ever worked on, and my first one in Java.
+This was the first software project I've worked on, and my first one in Java.
 In order to complete it I had to learn many software engineering principles and tools: I designed the structure with UML diagrams, used files at first and then a MySQL database to store the data, implemented a client-server architecture with multithreading for the client side, tested with JUnit.
 
 Learning goals reached:
